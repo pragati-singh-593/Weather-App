@@ -1,14 +1,14 @@
-#  Weather App
+# Weather App
 
 A responsive, web-based Weather Application built using **HTML, CSS, and JavaScript** that provides real-time weather information for cities around the world.
 
 The application integrates with the **OpenWeatherMap API** to fetch and display current weather conditions, including temperature, humidity, wind speed, and atmospheric pressure. It also features dynamic backgrounds that change according to the current weather conditions, creating a more interactive user experience.
 
-##  Live Demo
+## Live Demo
 
-**(https://weather-app-ps593.netlify.app/)**
+**[View Weather App](https://weather-app-ps593.netlify.app/)**
 
-##  Features
+## Features
 
 - **City-Based Weather Search:** Search for weather information by entering a city name.
 - **Real-Time Weather Data:** Fetches current weather information using the OpenWeatherMap API.
@@ -20,7 +20,7 @@ The application integrates with the **OpenWeatherMap API** to fetch and display 
 - **Input Validation:** Provides alerts for empty searches and invalid city names.
 - **Responsive Design:** Adapts the application layout for different screen sizes, including mobile devices.
 
-##  Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -32,7 +32,7 @@ The application integrates with the **OpenWeatherMap API** to fetch and display 
 | SweetAlert | Interactive alerts and error messages |
 | Google Fonts | Typography |
 
-##  Project Structure
+## Project Structure
 
 ```text
 Weather-App/
@@ -54,7 +54,7 @@ Weather-App/
 └── README.md
 ```
 
-##  Getting Started
+## Getting Started
 
 Follow these steps to run the project locally.
 
@@ -90,7 +90,7 @@ Open the project in Visual Studio Code and launch `index.html` using the Live Se
 
 Alternatively, open `index.html` directly in a supported browser.
 
-##  How It Works
+## How It Works
 
 1. The user enters a city name in the search field.
 2. JavaScript captures the input when the Enter key is pressed.
@@ -100,7 +100,7 @@ Alternatively, open `index.html` directly in a supported browser.
 6. Weather details, including temperature, humidity, pressure, and wind speed, are displayed.
 7. The background image and weather icon are updated according to the retrieved weather conditions.
 
-##  Future Improvements
+## Future Improvements
 
 - Add support for weather forecasts for upcoming days.
 - Implement temperature unit conversion (Celsius/Fahrenheit).
@@ -108,7 +108,7 @@ Alternatively, open `index.html` directly in a supported browser.
 - Improve API error handling and loading indicators.
 - Enhance the user interface with additional weather visualizations.
 
-##  Author
+## Author
 
 **Pragati Singh**
 
@@ -117,4 +117,4 @@ Alternatively, open `index.html` directly in a supported browser.
 
 ---
 
- If you find this project interesting, feel free to explore the repository!
+If you find this project interesting, feel free to explore the repository!
