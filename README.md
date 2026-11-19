@@ -8,10 +8,10 @@ This project is a web-based weather application that allows users to check the c
 
 ## Features
 
-- Fetches current weather data for any city
-- Displays temperature, weather conditions, humidity, and wind speed, etc
-- Simple and intuitive user interface
-- Displays warning if the search box is empty or the name of the city is invalid
+- Fetches current weather data for any city.
+- Displays temperature, weather conditions, humidity, and wind speed, etc.
+- Simple and intuitive user interface.
+- Displays warning if the search box is empty or the name of the city is invalid.
 
 ## Usage
 
